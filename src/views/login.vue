@@ -2,7 +2,5 @@
 </script>
 
 <template>
-    <main>
-        <div>測試哦</div>
-    </main>
+    <div>這是登入</div>
 </template>

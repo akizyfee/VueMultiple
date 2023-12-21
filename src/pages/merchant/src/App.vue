@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div>test admin</div>
+    <div>test merchant</div>
     <Test />
 </template>
 

@@ -2,8 +2,7 @@
 </script>
 
 <template>
-    <div>test admin</div>
-    <Test />
+    <RouterView />
 </template>
 
 <style scoped></style>

@@ -1,3 +1,5 @@
 <template>
-    <div>123</div>
+    <Notification />
+    <p>123 dash</p>
+    <RouterView />
 </template>
